@@ -13,9 +13,9 @@ Features:
 
 Key Classes & Concepts:
 
-    QPainter	Core class for 2D drawing
-    QLinearGradient, QRadialGradient	Create metallic, glossy, and glowing effects
-    QTimer	Triggers clock updates every second
-    QTime	Provides current system time
-    QWidget::paintEvent	Custom rendering function for the clock face
+    QPainter:	Core class for 2D drawing
+    QLinearGradient, QRadialGradient:	Create metallic, glossy, and glowing effects
+    QTimer:	Triggers clock updates every second
+    QTime:	Provides current system time
+    QWidget::paintEvent:	Custom rendering function for the clock face
 
