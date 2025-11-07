@@ -19,3 +19,6 @@ Key Classes & Concepts:
     QTime:	Provides current system time
     QWidget::paintEvent:	Custom rendering function for the clock face
 
+https://github.com/user-attachments/assets/17655c65-d6b3-470f-8f41-87a52249adb0
+
+
